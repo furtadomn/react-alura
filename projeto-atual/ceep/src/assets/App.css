@@ -1,5 +1,7 @@
 .conteudo {
   display: flex;
+  padding: 20px;
+  margin-left: 10px;
 }
 
 :root {
@@ -8,4 +10,9 @@
   --secundaria-ativa: #cccccc;
   --fundo: #ffffff;
   --fundo-detalhes: #ececec;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
 }
