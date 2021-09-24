@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+## Resultado do Bloco de Notas:
+
+![bloco de notas](src/images/bloco-de-notas.png)
+![anotações](src/images/anotacoes.png)
+
+</br>
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
